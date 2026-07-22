@@ -1,0 +1,56 @@
+MIT License
+
+Copyright (c) 2026 Farz Quran - Open Source Android Qur'an App
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## About This Project
+
+**Farz Quran** is an open-source Android application dedicated to providing
+authentic Islamic knowledge and Quranic education. This project is freely
+available for anyone to use, modify, and contribute to under the MIT License.
+
+### Open Source Philosophy
+
+We believe in the power of community-driven development. This application is
+completely open source, allowing developers worldwide to:
+- Review the source code
+- Contribute improvements and features
+- Fork and customize for their needs
+- Build upon our work
+
+### Using This Software
+
+This software is provided free of charge for both personal and commercial use.
+If you use, modify, or redistribute this software, we ask that you:
+1. Include this license with any distribution
+2. Attribute the original work appropriately
+3. Share improvements back with the community (encouraged but not required)
+
+### Contributing
+
+We welcome contributions from the community! For guidelines, see:
+[CONTRIBUTING.md](../CONTRIBUTING.md)
+
+### Questions?
+
+For more information about licensing or the project, please open an issue
+on GitHub or contact the maintainers.
